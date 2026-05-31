@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachestringify",
+        "uuid": 11242465,
+        "checksum": "xeoni7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
